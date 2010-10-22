@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>onactivate="$1"</string>
+	<key>name</key>
+	<string>onactivate</string>
+	<key>scope</key>
+	<string>text.xml.svg meta.tag.xml</string>
+	<key>tabTrigger</key>
+	<string>on</string>
+	<key>uuid</key>
+	<string>F46BCEA0-9CC6-4DF7-97F9-6D5B802E0CC4</string>
+</dict>
+</plist>

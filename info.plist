@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>SVG</string>
+	<key>ordering</key>
+	<array>
+		<string>9D74BDA7-2171-4D2F-935E-575783B4E5B3</string>
+		<string>056402C9-2671-4EED-853E-E726826C9F55</string>
+		<string>86F01F59-EE80-42EB-8629-F65B0066EBAB</string>
+		<string>7D80A89E-7FBC-4E29-B98F-964B47E6CD66</string>
+		<string>64E3C80B-91E3-4564-877A-3189B66941AB</string>
+		<string>B395EDD3-B5C9-4668-9E3E-857CEC40B337</string>
+		<string>691B691D-A980-483D-B877-13E2AADBAAF9</string>
+		<string>9F16CD94-5F3F-4696-A8E2-D0E42C3F5A07</string>
+		<string>F64A7700-AC95-4BBB-B052-3C474F849507</string>
+		<string>9CD8388F-57E6-40C4-8B64-85CA5B12BD96</string>
+		<string>AA9C3A86-9D79-4CBC-A5C3-CAB2B6C0DB05</string>
+		<string>C7AF8C62-1B84-4B3F-8AE4-4630429C6141</string>
+		<string>15017B86-93EB-427D-ADAE-69A3D7C3EB6A</string>
+		<string>26F3F02C-3AC6-408F-A325-BC483102E9E8</string>
+		<string>402E0A3C-623B-4528-8DBA-F1E77C8F34C9</string>
+		<string>404A44B4-9BB7-4776-A4D9-1161A83BBAA7</string>
+		<string>1FE9FA7B-0B2E-4759-97A7-2553EECF68EF</string>
+		<string>8B01718D-4EDF-485E-A50A-6CFF45685346</string>
+		<string>F46BCEA0-9CC6-4DF7-97F9-6D5B802E0CC4</string>
+		<string>02E5D42A-A56D-48A9-9206-94809BF504EA</string>
+		<string>0017CAF2-9AE6-4086-BBE6-10A900521AF4</string>
+		<string>E3A2880F-FC04-45A1-8FB9-A181CAF5E60A</string>
+		<string>73C4E0B5-5F5B-4473-9696-A44DBB14028F</string>
+		<string>36FB00FE-7320-4B4F-AA5C-6CF0619C006D</string>
+		<string>8AB332C6-936A-4515-A62D-5046F1546E04</string>
+		<string>60E1A653-2588-410D-8F89-9DA05E8BF163</string>
+	</array>
+	<key>uuid</key>
+	<string>0758FC12-C5A4-4C78-BB48-F86E7174309B</string>
+</dict>
+</plist>

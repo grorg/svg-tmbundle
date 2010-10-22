@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="${1:240}" height="${2:320}"
+     viewBox="0 0 $1 $2"
+     version="1.1"&gt;
+  &lt;title&gt;${3:Title here}&lt;/title&gt;
+
+  &lt;script type="text/javascript"&gt;
+  &lt;![CDATA[
+
+    // SVG script here
+
+  ]]&gt;
+  &lt;/script&gt;
+
+  $O
+&lt;/svg&gt;</string>
+	<key>name</key>
+	<string>svg</string>
+	<key>scope</key>
+	<string>text.xml.svg</string>
+	<key>tabTrigger</key>
+	<string>svg</string>
+	<key>uuid</key>
+	<string>9D74BDA7-2171-4D2F-935E-575783B4E5B3</string>
+</dict>
+</plist>

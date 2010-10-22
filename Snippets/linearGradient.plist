@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;linearGradient id="$1" x1="${2:0}" x2="${3:0}" y1="${4:0}" y2="${5:1}"&gt;
+  &lt;stop offset="${6:0}" stop-color="$7" /&gt;
+  &lt;stop offset="${8:1}" stop-color="$9" /&gt;
+&lt;/linearGradient&gt;</string>
+	<key>name</key>
+	<string>linearGradient</string>
+	<key>scope</key>
+	<string>text.xml.svg</string>
+	<key>tabTrigger</key>
+	<string>linear</string>
+	<key>uuid</key>
+	<string>F64A7700-AC95-4BBB-B052-3C474F849507</string>
+</dict>
+</plist>

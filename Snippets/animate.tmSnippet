@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;animate attributeName="$1" values="$2;$3" begin="$4" dur="$5s" fill="${6:freeze}" /&gt;</string>
+	<key>name</key>
+	<string>animate</string>
+	<key>scope</key>
+	<string>text.xml.svg</string>
+	<key>tabTrigger</key>
+	<string>animate</string>
+	<key>uuid</key>
+	<string>B395EDD3-B5C9-4668-9E3E-857CEC40B337</string>
+</dict>
+</plist>
